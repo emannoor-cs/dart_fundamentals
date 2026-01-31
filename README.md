@@ -31,6 +31,9 @@ This learning path was executed under the expert guidance of **Sir Fahad Qasim**
 * **Language:** Dart 3.x
 * **IDE:** Visual Studio Code
 * **Version Control:** Git & GitHub
+  
+## 📝 Article
+[![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ema.noo.or.r/from-syntax-to-logic-my-first-week-as-a-flutter-fellow-36467c7d0bae))
 
 ## 👩‍💻 Author
 **Eman Noor** *BSCS Student & Flutter Fellow at GDG Attock* ---
